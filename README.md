@@ -1,5 +1,5 @@
 # badapple
  
- ## ÓÃÓÚÀÖßãµÄÕû»î
+ ## ç”¨äºä¹å’©çš„æ•´æ´»
  
-[bÕ¾ÊÓÆµ](https://www.bilibili.com/video/BV1Z54y1v7hX)
+[bç«™è§†é¢‘](https://www.bilibili.com/video/BV1Z54y1v7hX)
